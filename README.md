@@ -2,10 +2,6 @@
 
 <!-- <img src="https://raw.githubusercontent.com/elkindnet/forbetterweb-cover-countdown/gh-pages/img/screenshot.jpg"> -->
 <img src="img/cover.jpg">
-<<<<<<< HEAD
-=======
-
-
 
 ## Creator
 
