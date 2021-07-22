@@ -3,6 +3,7 @@
 <!-- <img src="https://raw.githubusercontent.com/elkindnet/forbetterweb-cover-countdown/gh-pages/img/screenshot.jpg"> -->
 <img src="img/cover.jpg">
 
+
 ## Creator
 
 ForBetterWeb was created by and is maintained by **Jeny Elkind**, [elkind.net](http://elkind.net/).
