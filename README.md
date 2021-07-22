@@ -1,6 +1,7 @@
 # [ForBetterWeb](http://forbetterweb.com/) - [Cover Countdown](http://forbetterweb.com/htmlandbootstrap/cover-countdown-one-page-websites-html-bootstrap/)
 
-<img src="https://raw.githubusercontent.com/elkindnet/forbetterweb-cover-countdown/gh-pages/img/screenshot.jpg">
+<!-- <img src="https://raw.githubusercontent.com/elkindnet/forbetterweb-cover-countdown/gh-pages/img/screenshot.jpg"> -->
+<img src="img/cover.jpg">
 
 ###[Live Demo](http://elkindnet.github.io/forbetterweb-cover-countdown/) | [Download](https://github.com/elkindnet/forbetterweb-cover-countdown/archive/gh-pages.zip)
 
