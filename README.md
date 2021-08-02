@@ -2,7 +2,7 @@
 <!-- - [Cover Countdown](http://forbetterweb.com/htmlandbootstrap/cover-countdown-one-page-websites-html-bootstrap/) -->
 
 <!-- <img src="https://raw.githubusercontent.com/elkindnet/forbetterweb-cover-countdown/gh-pages/img/screenshot.jpg"> -->
-<img src="img/cover.jpg">
+<!-- <img src="img/cover.jpg"> -->
 <!-- 
 ## Creator
 
