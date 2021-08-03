@@ -1615,7 +1615,7 @@
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 10pt;
 			}
 
 		}
@@ -1623,7 +1623,7 @@
 		@media screen and (max-width: 480px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 9pt;
 			}
 
 		}
@@ -1775,6 +1775,10 @@
 
 	.align-center {
 		text-align: center;
+	}
+
+	.contato {
+		text-decoration: none;
 	}
 
 	.align-right {
