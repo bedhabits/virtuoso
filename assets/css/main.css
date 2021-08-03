@@ -1853,7 +1853,7 @@
 
 		.box .content {
 			padding: 3rem;
-			text-align: justify;
+			text-align: -webkit-left;
 		}
 
 		.box > :last-child,
