@@ -1853,6 +1853,7 @@
 
 		.box .content {
 			padding: 3rem;
+			text-align: justify;
 		}
 
 		.box > :last-child,
@@ -3714,7 +3715,7 @@
 	}
 
 	#header {
-		background: #252525;
+		background: #03010E;
 		color: #a6a6a6;
 		cursor: default;
 		height: 4em;
@@ -4305,7 +4306,7 @@
 
 	#footer {
 		padding: 4rem 0 2rem 0 ;
-		background: #252525;
+		background: #03010E;
 		text-align: center;
 	}
 
