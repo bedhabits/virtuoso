@@ -57,6 +57,10 @@
 		box-sizing: border-box;
 	}
 
+	/* .mt-5 {
+		padding-top: 5 !important;
+	  } */
+
 /* Containers */
 
 	.container {
@@ -2306,6 +2310,12 @@
 		color: #bbb !important;
 	}
 
+/* Video */
+
+	video {
+		object-fit: none;
+    	width: -webkit-fill-available;
+	}
 /* Icon */
 
 	.icon {
@@ -2334,7 +2344,7 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
-		filter: brightness(0.8) saturate(0.3) contrast(0.9);
+		/* filter: brightness(0.8) saturate(0.3) contrast(0.9); */
 	}
 
 		.image img {
@@ -3106,6 +3116,15 @@
 			.wrapper.style2 table.alt tbody tr td {
 				border-color: rgba(0, 0, 0, 0.15);
 			}
+
+			.carta {
+				margin-bottom: 15px;
+				font-size: 12px;    	
+			}
+
+			/* .carta:hover {
+				background-color: rgba(221,210,87,1) !important;;
+			} */
 
 		.wrapper.style3 {
 			background-color: #000;
