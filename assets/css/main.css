@@ -3126,6 +3126,10 @@
 				background-color: rgba(221,210,87,1) !important;;
 			} */
 
+			.cardapio {
+				width: -webkit-fill-available;
+			}
+
 		.wrapper.style3 {
 			background-color: #000;
 			color: #bfbfbf;
